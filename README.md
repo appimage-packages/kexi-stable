@@ -1,6 +1,6 @@
 # kexi
 Master branch:
-[![Build Status](http://aci.pangea.pub/job/kexi-master-appimage/badge/icon)](http://aci.pangea.pub/job/kexi-master-appimage/)
+[![Build Status](http://aci.pangea.pub/job/kexi-stable-master-appimage/badge/icon)](http://aci.pangea.pub/job/kexi-stable-master-appimage/)
 
 AppImage for KDE kexi
 
@@ -10,4 +10,4 @@ https://www.kde.org/applications/office/kexi/
 
 S3 Download:
 master:
-https://s3-eu-central-1.amazonaws.com/ds9-apps/index.html#!/kexi-master-appimage%2F
+https://s3-eu-central-1.amazonaws.com/ds9-apps/index.html#!/kexi-stable-master-appimage%2F
